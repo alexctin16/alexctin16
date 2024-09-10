@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning computer science for lawyers
 - 💞️ I’m looking to collaborate on cryptoassets projects and DAOs governance
 - 📫 How to reach me alexandra.constantin92@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 alexctin16/alexctin16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
